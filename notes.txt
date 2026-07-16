@@ -1,0 +1,12 @@
+email disparado com sucesso: alterar status do lead pra 'true';
+    se o job falhar, buscar quem falhou e reenviar
+
+validar brevo no dominio
+botar no git
+criar usuário de deploy no server e chaves
+criar subdominio
+configurar o git com as chaves
+criat o github actions
+instalar o supervisor
+configurar o supervisor
+testar

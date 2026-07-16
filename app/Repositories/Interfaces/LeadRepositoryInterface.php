@@ -1,0 +1,8 @@
+<?php
+
+namespace App\Repositories\Interfaces;
+
+interface LeadRepositoryInterface
+{
+    public function create(array $data);
+}
