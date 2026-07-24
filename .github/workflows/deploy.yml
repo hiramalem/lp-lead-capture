@@ -4,6 +4,12 @@ on:
   push:
     branches:
       - prod
+      
+  workflow_dispatch:
+    inputs:
+      reason:        
+        required: false
+        default: 'Deploy manual'
 
 jobs:
   deploy:
